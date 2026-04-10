@@ -1,0 +1,5 @@
+{
+  "name": "LegalizeAI - Legal & Safety Assistant",
+  "description": "A dual-purpose AI tool for simplifying complex legal documents and analyzing product ingredient safety.",
+  "requestFramePermissions": ["microphone"]
+}
